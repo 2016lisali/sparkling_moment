@@ -1,3 +1,19 @@
+# server npm install 
+body-parser -- enable us to send post requests
+cors -- enable cross origin requests
+express -- frame work for creating the routing of our application
+mongoose -- DB
+nodemon 
+
+# clicent npm install
+axios - for making api requests
+moment - working with time and date
+react-file-base64 - used for convert our images
+redux 
+redux-thunk - used for asynchronous actions using redux
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
