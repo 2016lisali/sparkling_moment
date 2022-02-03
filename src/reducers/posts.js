@@ -1,6 +1,6 @@
 import { FETCH_ALL, CREATE, UPDATE, DELETE } from '../constants/actionTypes'
 
-const reducer = (posts = [], action) => {
+const postReducer = (posts = [], action) => {
   switch (action.type) {
     case DELETE:
       return posts.filter(post => post._id !== action.payload);
@@ -15,4 +15,4 @@ const reducer = (posts = [], action) => {
   }
 }
 
-export default reducer;
+export default postReducer;

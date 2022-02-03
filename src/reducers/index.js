@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux';
-import reducer from './posts'
+import posts from './posts'
 
 
-export default combineReducers({ reducer })
+export default combineReducers({ posts })
 // * in an object, if the key and the value are same, can only keep one.
