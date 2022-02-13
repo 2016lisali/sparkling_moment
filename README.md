@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Sparkling Moment
+
+# Sparkling Moment (Under Construction)
 Sparkling Moment is a social media application where users can post photos and text about their great moment.
 
 ## How to run the app
@@ -17,7 +17,7 @@ Sparkling Moment is a social media application where users can post photos and t
 ## Features
 
 ## What the app looks like
+![home page.](https://raw.githubusercontent.com/2016lisali/sparkling_moment/main/src/images/homepage.jpg "home page.")
+  
 
-=======
-# Not finish yet
->>>>>>> c14b1937df40dd8e1341cfffe7575843c788e66b
+
