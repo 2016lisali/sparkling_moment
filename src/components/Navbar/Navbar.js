@@ -17,8 +17,7 @@ const Navbar = () => {
     dispatch({ type: 'LOGOUT'})
     navigate('/')
   }
-  useEffect(() => {
-    const token = user?.token;
+  useEffect(() => {const token = user?.token;
 
     // JWT
     if(token) {
