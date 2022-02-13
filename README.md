@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sparkling Moment
 Sparkling Moment is a social media application where users can post photos and text about their great moment.
 
@@ -17,3 +18,6 @@ Sparkling Moment is a social media application where users can post photos and t
 
 ## What the app looks like
 
+=======
+# Not finish yet
+>>>>>>> c14b1937df40dd8e1341cfffe7575843c788e66b
